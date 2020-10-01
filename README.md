@@ -3,4 +3,8 @@ Hello, welcome to my website. [Saurabhjojare.github.io](https://saurabhjojare.gi
 
 Created with the help of [Bootstrap](http://getbootstrap.com)
 
-If you want to give me your own suggestions email me on `saurabhjojare@gmail.com`
+plz, visit website and check my work.
+
+If you want to give me your own suggestions email me on `saurabhjojare@gmail.com` it will be very greatful to hear your suggestion and implement it.
+
+Thank you.
